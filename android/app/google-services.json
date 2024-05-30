@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632762916367",
+    "project_id": "rnnotification-cff6f",
+    "storage_bucket": "rnnotification-cff6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632762916367:android:33afd40ba2490f53d38d7a",
+        "android_client_info": {
+          "package_name": "com.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSnPGqtppghqsxbeOiYs-sVY4YpnUbNG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
