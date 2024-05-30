@@ -77,3 +77,30 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+below are some screenshots of above file
+
+![WhatsApp Image 2024-05-21 at 6 09 44 PM](https://github.com/Darshan1124/H2_Frontend/assets/84403594/508607ac-1885-481c-ae95-e32a5001826e)
+![WhatsApp Image 2024-05-21 at 6 09 45 PM (1)](https://github.com/Darshan1124/H2_Frontend/assets/84403594/322a0a3c-a024-4e19-b8f7-332521e904a5)
+![WhatsApp Image 2024-05-21 at 6 09 44 PM (1)](https://github.com/Darshan1124/H2_Frontend/assets/84403594/2e26732f-e9a0-4118-a509-13a17f7843bf)
+![WhatsApp Image 2024-05-21 at 6 09 46 PM](https://github.com/Darshan1124/H2_Frontend/assets/84403594/25c6e2c8-840a-4f96-a582-07ad5dd13f55)
+![WhatsApp Image 2024-05-21 at 6 09 45 PM](https://github.com/Darshan1124/H2_Frontend/assets/84403594/458c28a5-fab0-4cba-afee-f9a74aa17c4b)
+![WhatsApp Image 2024-05-21 at 6 09 47 PM (1)](https://github.com/Darshan1124/H2_Frontend/assets/84403594/e8461d95-07a6-4723-bc2f-e9e7bcdeb63c)
+![WhatsApp Image 2024-05-21 at 6 09 45 PM (2)](https://github.com/Darshan1124/H2_Frontend/assets/84403594/321371e7-db81-452f-a6a6-6219d73d8436)
+![WhatsApp Image 2024-05-21 at 6 09 45 PM (3)](https://github.com/Darshan1124/H2_Frontend/assets/84403594/782c2e54-3203-4812-8b6c-536cfa4700ae)
+![WhatsApp Image 2024-05-21 at 6 09 46 PM (1)](https://github.com/Darshan1124/H2_Frontend/assets/84403594/414bb37a-9a4c-4550-8e7c-3163dabd108d)
+![WhatsApp Image 2024-05-21 at 6 09 47 PM](https://github.com/Darshan1124/H2_Frontend/assets/84403594/7a742758-2427-4e7f-82fc-b054965ab8c0)
+![WhatsApp Image 2024-05-21 at 6 09 47 PM (2)](https://github.com/Darshan1124/H2_Frontend/assets/84403594/92f44873-02a9-48f8-a2b2-60b876b6a665)
+![WhatsApp Image 2024-05-21 at 6 09 48 PM](https://github.com/Darshan1124/H2_Frontend/assets/84403594/e1f50924-06e3-4561-9622-7d946a213830)
+
+
+
+
+
+
+
+
+
+
+
